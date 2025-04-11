@@ -1,7 +1,5 @@
 # Assembler- Nand2teris
 
-
- 🧠 Hack Assembler()
 This project is a simple Hack Assembler written in Go, based on the Nand2Tetris course. It translates .asm files written in Hack assembly language into binary .hack files that can run on the Hack computer platform.
 
 🚀 What It Does

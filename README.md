@@ -16,7 +16,7 @@ Has a basic placeholder for C-instructions (e.g., D=A, M=D+1)
 🔧 Currently, this version only fully supports A-instructions. C-instruction support is a placeholder and can be expanded.
 
  ## 📁 File Structure
-main.go – The main Go file containing all the assembler logic
+assembler.go – The assembler Go file containing all the assembler logic
 
 example.asm – Sample Hack assembly program (create your own)
 

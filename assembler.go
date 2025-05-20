@@ -84,3 +84,5 @@ func translate(line string) (string, error) {
 	// This is simplified and always returns a dummy binary
 	return "1110000000000000", nil
 }
+
+

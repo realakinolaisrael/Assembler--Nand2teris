@@ -83,6 +83,4 @@ func translate(line string) (string, error) {
 	// C-instruction placeholder (e.g., D=A, 0;JMP)
 	// This is simplified and always returns a dummy binary
 	return "1110000000000000", nil
-}
-
-
+} // translate
